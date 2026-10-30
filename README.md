@@ -37,12 +37,11 @@
   <a href="https://github.com/arshanalikhan/collabsphere"><img src="assets/cards/collabsphere.svg" width="49%" alt="CollabSphere: meetup engine for IIT Madras BS houses"></a>
 </p>
 <p align="center">
-  <a href="https://sy-professionals.vercel.app"><img src="assets/cards/sy-professionals.svg" width="49%" alt="SY Professionals Portal: client portal for a Dubai accounting firm"></a>
   <a href="https://github.com/arshanalikhan/amp-gen-task"><img src="assets/cards/material-passport.svg" width="49%" alt="Material Passport Extractor: Gemini vision pipeline for bills of quantities"></a>
 </p>
 
 <p align="center">
-  <b>Try them live:</b> <a href="https://collabsphere-one.vercel.app">CollabSphere</a> · <a href="https://sy-professionals.vercel.app">SY Professionals</a> · <a href="https://arshanalikhan.github.io/online-quiz-application/">Online Quiz App</a>
+  <b>Try them live:</b> <a href="https://collabsphere-one.vercel.app">CollabSphere</a> · <a href="https://arshanalikhan.github.io/online-quiz-application/">Online Quiz App</a>
 </p>
 
 <p align="center">

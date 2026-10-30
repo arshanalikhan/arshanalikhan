@@ -62,11 +62,6 @@ PROJECTS = [
          desc="Meetup engine for IIT Madras BS houses: a map of nearby peers, joint events across houses, "
               "and check-in with a rotating signed QR, geofence and face check.",
          tags=["Next.js 15", "MongoDB", "Leaflet", "MediaPipe"]),
-    dict(slug="sy-professionals", title="SY Professionals Portal", kicker="CLIENT WORK · MERN", chip="LIVE",
-         accent=VIOLET, accent2=PINK, linked=True,
-         desc="Turned a static site into a live platform for a Dubai accounting firm: admin and client "
-              "dashboards, Firebase Auth with 2FA, PDF/Excel export.",
-         tags=["React", "Node.js", "MongoDB", "Firebase"]),
     dict(slug="material-passport", title="Material Passport Extractor", kicker="LLM · DOCUMENT AI",
          chip="AMP-GEN", accent=PINK, accent2=CYAN, linked=True,
          desc="Reads a scanned bill of quantities with Gemini vision models and fills an AMP material "
